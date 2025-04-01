@@ -1,8 +1,7 @@
 
 package autonoma.pokemonapp.models;
+import autonoma.pokemonapp.view.PokemonRayo;
 
-import tragamonedas.PokemonRayo;
-import tragamonedas.PokemonRayo;
 
 public class Pikachu extends Pokemon implements PokemonRayo {
     public Pikachu() {

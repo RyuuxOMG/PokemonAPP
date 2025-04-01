@@ -1,7 +1,5 @@
 package autonoma.pokemonapp.main;
 
-import tragamonedas.Charmander;
-import tragamonedas.Squirtle;
 import autonoma.pokemonapp.models.*;
 import autonoma.pokemonapp.view.*;
 

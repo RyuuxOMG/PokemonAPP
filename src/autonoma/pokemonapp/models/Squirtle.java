@@ -1,8 +1,7 @@
 package autonoma.pokemonapp.models;
 
 import autonoma.pokemonapp.models.Pokemon;
-import tragamonedas.PokemonAgua;
-import tragamonedas.PokemonAgua;
+import autonoma.pokemonapp.view.PokemonAgua;
 
 public class Squirtle extends Pokemon implements PokemonAgua {
     public Squirtle() {

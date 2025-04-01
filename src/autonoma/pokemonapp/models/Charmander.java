@@ -1,7 +1,6 @@
+package autonoma.pokemonapp.models;
 
-package tragamonedas;
-
-import tragamonedas.PokemonFuego;
+import autonoma.pokemonapp.view.PokemonFuego;
 
 public class Charmander extends Pokemon implements PokemonFuego {
     public Charmander() {
